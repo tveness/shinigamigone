@@ -1,0 +1,8 @@
+! 2022-06-05
+!Twitter
+twitter.com##:xpath(//article[.//a[contains(@class,"assigned-label-transphobic")]])
+!Old reddit
+reddit.com##:xpath(//div[contains(@class,"entry")][.//a[contains(@class,"assigned-label-transphobic")]])
+!New reddit
+reddit.com##a[data-testid*="comment_author_link"].assigned-label-transphobic:nth-ancestor(6)
+
