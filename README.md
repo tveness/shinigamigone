@@ -9,3 +9,17 @@ Currently supporting
 - [ ] Tumblr
 - [ ] Medium
 - [ ] YouTube
+
+## How to install
+
+1. Open the uBlock origin settings dashboard
+ 
+![](pics/step-1.jpg)
+
+2. In the *Filter lists* tab, under *Custom* click *Import...* and add the URL
+
+https://tveness.com/shinigamigone/shinigamigone.txt
+
+![](pics/step-2.jpg)
+
+
