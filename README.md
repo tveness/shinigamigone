@@ -1,5 +1,7 @@
 # Shinigamigone filter list
 
+Shinigami Eyes highlights, Shinigamigone removes.
+
 In tandem with [Shinigami Eyes](https://github.com/shinigami-eyes/shinigami-eyes), this is a uBlock origin filter list which will hide social media posts/comments from users marked as transphobic/anti-LGBTQ+
 
 Currently supporting
